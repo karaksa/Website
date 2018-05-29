@@ -1,4 +1,3 @@
-<h> Kara General Contracting Company</h>
+# Kara General Contracting Company
 
-## Website Under Maintenance
-## Contact us - info@karaksa.com
+## Website Under Maintenance, Contact us - info@karaksa.com
